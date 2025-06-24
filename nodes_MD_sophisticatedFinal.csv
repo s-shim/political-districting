@@ -1,0 +1,47 @@
+﻿Node,Node_Original,County,District,population
+1,1,County : Baltimore MD Subtotal,Districs 1,54926
+2,1.1,County : Baltimore MD Subtotal,Districs 1,0
+3,2,County : Caroline MD ,Districs 1,33177
+4,3,County : Carroll MD Subtotal,Districs 1,65036
+5,4,County : Cecil MD ,Districs 1,101287
+6,5,County : Dorchester MD ,Districs 1,32784
+7,6,County : Harford MD Subtotal,Districs 1,153779
+8,7,County : Kent MD ,Districs 1,20266
+9,8,County : Queen Anne's MD ,Districs 1,47899
+10,9,County : Somerset MD ,Districs 1,23754
+11,10,County : Talbot MD ,Districs 1,37890
+12,11,County : Wicomico MD ,Districs 1,99183
+13,12,County : Worcester MD ,Districs 1,51548
+14,13,County : Anne Arundel MD Subtotal,Districs 2,78941
+15,14,County : Baltimore City MD Subtotal,Districs 2,84522
+16,14.1,County : Baltimore City MD Subtotal,Districs 2,0
+17,14.2,County : Baltimore City MD Subtotal,Districs 2,0
+18,15,County : Baltimore MD Subtotal,Districs 2,428104
+19,15.1,County : Baltimore MD Subtotal,Districs 2,0
+20,16,County : Harford MD Subtotal,Districs 2,91615
+21,17,County : Howard MD Subtotal,Districs 2,38347
+22,18,County : Anne Arundel MD Subtotal,Districs 3,218517
+23,19,County : Baltimore City MD Subtotal,Districs 3,165913
+24,20,County : Baltimore MD Subtotal,Districs 3,135282
+25,20.1,County : Baltimore MD Subtotal,Districs 3,0
+26,20.2,County : Baltimore MD Subtotal,Districs 3,0
+27,21,County : Howard MD Subtotal,Districs 3,91763
+28,22,County : Montgomery MD Subtotal,Districs 3,110054
+29,23,County : Anne Arundel MD Subtotal,Districs 4,179639
+30,24,County : Prince George's MD Subtotal,Districs 4,541890
+31,25,County : Anne Arundel MD Subtotal,Districs 5,57250
+32,26,County : Calvert MD ,Districs 5,88903
+33,27,County : Charles MD ,Districs 5,146788
+34,28,County : Prince George's MD Subtotal,Districs 5,323231
+35,29,County : St. Mary's MD ,Districs 5,105357
+36,30,County : Allegany MD ,Districs 6,72528
+37,31,County : Frederick MD Subtotal,Districs 6,117292
+38,32,County : Garrett MD ,Districs 6,30124
+39,33,County : Montgomery MD Subtotal,Districs 6,358988
+40,34,County : Washington MD ,Districs 6,142597
+41,35,County : Baltimore City MD Subtotal,Districs 7,376229
+42,36,County : Baltimore MD Subtotal,Districs 7,188741
+43,37,County : Howard MD Subtotal,Districs 7,156559
+44,38,County : Carroll MD Subtotal,Districs 8,101865
+45,39,County : Frederick MD Subtotal,Districs 8,116367
+46,40,County : Montgomery MD Subtotal,Districs 8,503296
